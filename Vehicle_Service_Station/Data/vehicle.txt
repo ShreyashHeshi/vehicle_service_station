@@ -1,0 +1,6 @@
+12345,TVS,Jupiter,123456
+12345,Toyota,Innova,9876
+998765,TATA,Punch,mh124587
+765437,Mahindra,chetak,3456
+7038021717,carry,suzuki,9876
+1234567,bajaj,platina,098
